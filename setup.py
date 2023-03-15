@@ -1,7 +1,7 @@
 from setuptools import find_packages, setup
 
 setup(
-    name="Cat-Dog",
+    name="Dog-Cat",
     version="0.0.1",
     author="iNeuron",
     author_email="query@ineuron.ai",
